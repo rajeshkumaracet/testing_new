@@ -1,0 +1,11 @@
+{
+  "name": "protractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor ./conf/conf.js"
+  },
+  "author": "Rajeshkumar",
+  "license": "ISC"
+}
